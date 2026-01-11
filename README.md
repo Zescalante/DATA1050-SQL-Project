@@ -1,2 +1,2 @@
 # DATA1050-SQL-Project
-Data engineering SQL project
+SQL project for DATA1050 Data Engineering
