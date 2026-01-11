@@ -3,6 +3,8 @@ Fall 2024 - DATA 1050 - SQL Project
 
 This project was completed as part of DATA 1050 (Data Engineering) and involved the design and implementation of a relational SQL database for managing structured data. I translated project requirements into a normalized database schema, defining tables and primary/foreign key relationships. The database was then implemented in a Jupyter Notebook (.ipynb) environment within Visual Studio Code using MySQL, populated with structured data, and validated by converting a set of natural-language query requirements into executable SQL queries.
 
+**Note:** This repository is intended as a showcase of database design and SQL queries. The notebook contains SQL implementation and data insertion steps, but the underlying dataset is not included. SQL files and schema diagrams illustrate the project structure and logic.
+
 ## Technologies
 
 * SQL (MySQL)
