@@ -11,8 +11,8 @@ This project was completed as part of DATA 1050 (Data Engineering) and involved 
 
 ## Contents
 
-* `SQL_Project.ipynb`: Jupyter Notebook containing database creation, schema implementation, and data insertion using MySQL.
-* `Schema.png`: Diagram illustrating the database schema and table relationships.
+* `Procedure_Trigger.sql`: SQL file defining a stored procedure and trigger implemented as part of the project.
 * `Queries.png`: Project-provided natural-language questions that were translated into SQL queries.
 * `Queries.sql`: SQL file containing the translated queries used to validate and interact with the database.
-* `Procedure_Trigger.sql`: SQL file defining a stored procedure and trigger implemented as part of the project.
+* `Schema.png`: Diagram illustrating the database schema and table relationships.
+* `SQL_Project.ipynb`: Jupyter Notebook containing database creation, schema implementation, and data insertion using MySQL.
