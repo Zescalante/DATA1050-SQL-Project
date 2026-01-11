@@ -16,3 +16,7 @@ This project was completed as part of DATA 1050 (Data Engineering) and involved 
 * `Queries.sql`: SQL file containing the translated queries used to validate and interact with the database.
 * `SQL_Project.ipynb`: Jupyter Notebook containing database creation, schema implementation, and data insertion using MySQL.
 * `Schema.png`: Diagram illustrating the database schema and table relationships.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
